@@ -1,1 +1,1 @@
-# Python_Intership_2020
+# Python_Internship_2020
